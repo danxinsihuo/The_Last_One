@@ -2,7 +2,7 @@
 一款使用 Unreal Engine 5 开发的第一人称打丧尸射击游戏。
 
 🛠 技术栈
-Unreal Engine 5
+```Unreal Engine 5
 
 Blueprint / C++
 
@@ -10,7 +10,7 @@ Behavior Tree（行为树）
 
 Niagara（粒子系统）
 
-Git / Perforce
+Git / Perforce```
 
 🕒 开发时间
 2025年4月 – 2025年5月
